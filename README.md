@@ -21,4 +21,6 @@ because you've already reset it to 0. ✅
 6. You can use either Jetpack Compose or XML to build the UI. ✅
 
 
-<iframe src="https://giphy.com/embed/e9QZgeWCx8KkrSaSmh" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/e9QZgeWCx8KkrSaSmh">via GIPHY</a></p>
+| Assignment 1</a>  | <a href="https://github.com/FebinRukfan/Compose-Counter-App/blob/main/MAD%20Assignment%201.pdf" target="_blank"> </a> 
+| ------------------------------------------- |
+| ![Assignment 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZicDYxbWYyN202aW9yZThmZ2oxYWtmcHBhMmg5dmszcGJ2eHB3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9QZgeWCx8KkrSaSmh/giphy.gif) |
