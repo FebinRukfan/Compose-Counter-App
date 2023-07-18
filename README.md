@@ -20,7 +20,4 @@ it's fine. But when user again click on button, counter should display "Click co
 because you've already reset it to 0. ✅
 6. You can use either Jetpack Compose or XML to build the UI. ✅
 
-
-| Assignment 1</a>  | <a href="https://github.com/FebinRukfan/Compose-Counter-App/blob/main/MAD%20Assignment%201.pdf" target="_blank"> </a> 
-| ------------------------------------------- |
-| ![Assignment 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZicDYxbWYyN202aW9yZThmZ2oxYWtmcHBhMmg5dmszcGJ2eHB3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9QZgeWCx8KkrSaSmh/giphy.gif) |
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZicDYxbWYyN202aW9yZThmZ2oxYWtmcHBhMmg5dmszcGJ2eHB3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9QZgeWCx8KkrSaSmh/giphy.gif 
