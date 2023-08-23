@@ -21,4 +21,4 @@ because you've already reset it to 0. ✅
 6. You can use either Jetpack Compose or XML to build the UI. ✅
 
 
- ![Assignment 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVwNGY5eHQyODBwMHY5OXUzY2N5Yml5dTNqMnNjN3lpb3I0a294aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EhGA0Ql7ZAi2ARkp62/giphy.gif) 
+ ![Assignment 1](https://media.giphy.com/media/e9QZgeWCx8KkrSaSmh/giphy.gif) 
